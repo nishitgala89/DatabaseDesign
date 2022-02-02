@@ -25,13 +25,13 @@ This Diagram is classified into 3 main parts with corresponding entities designe
 
 
 
-| Part                         |                                                      | Entities (Tables)                                                         |
+| **Part**                         |     **Main and Supporting Entities**                                                | **Entities (Tables)**                                                       |
 | ---------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------- |
-| Wine Entities                | Main                                                 | WS\_WINE, WS\_WINE\_DETAILS                                               |
+| ***Wine Entities***               | Main                                                 | WS\_WINE, WS\_WINE\_DETAILS                                               |
 |                              | Supporting                   | WS\_WINE\_CATEGORY, WS\_WINE\_INDICATOR, WS\_COUNTRY |
-| Customer Entities            | Main                                                 | WS\_CUSTOMER, WS\_SHOPPING\_BASKET, WS\_SHOPPING\_LIST, WS\_INVOICE       |
+| ***Customer Entities***           | Main                                                 | WS\_CUSTOMER, WS\_SHOPPING\_BASKET, WS\_SHOPPING\_LIST, WS\_INVOICE       |
 |                              | Supporting                   | WS\_PROMOTION, WS\_CALCULATE\_DELIVERY\_CHARGE       |
-| Distribution Center Entities | Main                                                 | WS\_CENTER, WS\_WAREHOUSE, WS\_STOCK\_INFO, WS\_ORDER, WS\_ORDER\_DETAILS |
+| ***Distribution Center Entities*** | Main                                                 | WS\_CENTER, WS\_WAREHOUSE, WS\_STOCK\_INFO, WS\_ORDER, WS\_ORDER\_DETAILS |
 |                              | Supporting                   | WS\_REGION, WS\_LOCATION, WS\_ORDER\_TYPE            |
 
 ## Designing the DB schema using the ER diagram
