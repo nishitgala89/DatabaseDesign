@@ -57,7 +57,7 @@ The design was done using Visio.
 
 The data warehouse grain to design the Fact table in the Star schema is as below
 
->***“Wine purchase made by a customer in an invoice transaction taking into account the promotion offers and discount” ***
+>***“Wine purchase made by a customer in an invoice transaction taking into account the promotion offers and discount”***
 
 
 ## Warehouse Design Report
