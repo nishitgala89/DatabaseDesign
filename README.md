@@ -28,11 +28,11 @@ This Diagram is classified into 3 main parts with corresponding entities designe
 | Part                         |                                                      | Entities (Tables)                                                         |
 | ---------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------- |
 | Wine Entities                | Main                                                 | WS\_WINE, WS\_WINE\_DETAILS                                               |
-| Supporting                   | WS\_WINE\_CATEGORY, WS\_WINE\_INDICATOR, WS\_COUNTRY |
+|                              | Supporting                   | WS\_WINE\_CATEGORY, WS\_WINE\_INDICATOR, WS\_COUNTRY |
 | Customer Entities            | Main                                                 | WS\_CUSTOMER, WS\_SHOPPING\_BASKET, WS\_SHOPPING\_LIST, WS\_INVOICE       |
-| Supporting                   | WS\_PROMOTION, WS\_CALCULATE\_DELIVERY\_CHARGE       |
+|                              | Supporting                   | WS\_PROMOTION, WS\_CALCULATE\_DELIVERY\_CHARGE       |
 | Distribution Center Entities | Main                                                 | WS\_CENTER, WS\_WAREHOUSE, WS\_STOCK\_INFO, WS\_ORDER, WS\_ORDER\_DETAILS |
-| Supporting                   | WS\_REGION, WS\_LOCATION, WS\_ORDER\_TYPE            |
+|                              | Supporting                   | WS\_REGION, WS\_LOCATION, WS\_ORDER\_TYPE            |
 
 ## Designing the DB schema using the ER diagram
 The file path DB_Design/DB_Assignment_ER_Diagram.pdf leads to the database ER diagram that was designed for the Wine company 
